@@ -1,7 +1,7 @@
 return {
 
     info = {
-        name = "Modfly v2 Refactored",
+        name = "SC PABRIK",
         author = "RockyBandel",
         version = "1.0"
     },
